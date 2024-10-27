@@ -3,7 +3,7 @@
         "nombre": "OPERATION DOOMSDAY",
         "descripcion": "Álbum debut de MF DOOM, donde revela su persona como villano, con rimas crudas y beats originales en una atmósfera introspectiva y única. Productor: MF DOOM. Arte / Diseño: DOOM. Fecha de lanzamiento: 19 de octubre de 1999.",
         "fecha": "1999",
-        "artista": "mf_doom",  // MF DOOM
+        "artista": "mf_doom",
         "foto": "1.jpg",
         "fotos": ["1a.jpg", "1b.jpg", "1c.jpg"],
         "github": "https://github.com/conyln"
@@ -12,7 +12,7 @@
         "nombre": "TAKE ME TO YOUR LEADER",
         "descripcion": "Álbum de su alter ego KING GEEDORAH, crea un universo de ciencia ficción con sonidos experimentales y una narrativa de supervillano. Productores: METAL FINGERED VILLAIN, E. MASON. Arte / Diseño: 25SURVIVORSTUDIO. Fecha de lanzamiento: 17 de junio de 2003.",
         "fecha": "2003",
-        "artista": "king_geedora",  // KING GEEDORAH
+        "artista": "king_geedora",
         "foto": "2.jpg",
         "fotos": ["2a.jpg", "2b.jpg", "2c.jpg"],
         "github": "https://github.com/conyln"
@@ -21,7 +21,7 @@
         "nombre": "VAUDEVILLE VILLAIN",
         "descripcion": "Primer álbum de su alter ego VIKTOR VAUGHN, presenta una narrativa urbana con un estilo oscuro y letras rápidas y mordaces. Productores: KING HONEY, HEAT SENSOR, MAX BILL, RJD2, MR. TEN. Arte / Diseño: RALPH BORLAND. Fecha de lanzamiento: 16 de septiembre de 2003.",
         "fecha": "2003",
-        "artista": "viktor_vaughn",  // VIKTOR VAUGHN
+        "artista": "viktor_vaughn",
         "foto": "3.jpg",
         "fotos": ["3a.jpg", "3b.jpg", "3c.jpg"],
         "github": "https://github.com/conyln"
@@ -30,7 +30,7 @@
         "nombre": "MADVILLAINY",
         "descripcion": "Primer álbum del supergrupo MADVILLAIN (MADLIB + MF DOOM), considerado un clásico del hip-hop underground, con beats excepcionales y rimas enigmáticas. Productores: MF DOOM, MADLIB. Arte / Diseño: ERIC COLEMAN (Fotografía). Fecha de lanzamiento: 23 de marzo de 2004.",
         "fecha": "2004",
-        "artista": "madvillain",  // MADVILLAIN
+        "artista": "madvillain",
         "foto": "4.jpg",
         "fotos": ["4a.jpg", "4b.jpg", "4c.jpg"],
         "github": "https://github.com/conyln"
@@ -39,7 +39,7 @@
         "nombre": "VV:2 VENOMOUS VILLAIN",
         "descripcion": "Segundo álbum de su alter ego VIKTOR VAUGHN, donde adopta un enfoque más agresivo y experimental. Productores: SYSTEM D-128, DIPLO, DIVINCI, SWAMBUGER, SESSION 31, DJ I.N.C., DUB-L, THE ANALEARS. Arte / Diseño: SANFORD GREENE (Ilustración), GEZ FRY (Color). Fecha de lanzamiento: 3 de agosto de 2004.",
         "fecha": "2004",
-        "artista": "viktor_vaughn",  // VIKTOR VAUGHN
+        "artista": "viktor_vaughn",
         "foto": "5.jpg",
         "fotos": ["5a.jpg", "5b.jpg", "5c.jpg"],
         "github": "https://github.com/conyln"
@@ -48,7 +48,7 @@
         "nombre": "MM...FOOD",
         "descripcion": "Álbum de MF DOOM, temático con referencias culinarias, lleno de ingenio y humor en cada track. Productor: MF DOOM. Arte / Diseño: JASON JAGEL (Arte), JEFF JANK (Diseño). Fecha de lanzamiento: 16 de noviembre de 2004.",
         "fecha": "2004",
-        "artista": "mf_doom",  // MF DOOM
+        "artista": "mf_doom",
         "foto": "6.jpg",
         "fotos": ["6a.jpg", "6b.jpg", "6c.jpg"],
         "github": "https://github.com/conyln"
@@ -57,7 +57,7 @@
         "nombre": "THE MOUSE AND THE MASK",
         "descripcion": "Álbum del supergrupo DANGERDOOM (DANGER MOUSE + MF DOOM), inspirado en caricaturas de Adult Swim, con numerosas referencias culturales y una estética animada. Productor: DANGER MOUSE. Arte / Diseño: LEX. Fecha de lanzamiento: 10 de octubre de 2005.",
         "fecha": "2005",
-        "artista": "dangerdoom",  // DANGERDOOM
+        "artista": "dangerdoom",
         "foto": "7.jpg",
         "fotos": ["7a.jpg", "7b.jpg", "7c.jpg"],
         "github": "https://github.com/conyln"
@@ -66,7 +66,7 @@
         "nombre": "SPECIAL HERBS: THE BOX SET VOL. 0–9",
         "descripcion": "Colección de instrumentales de su alter ego productor METAL FINGERS, con samples envolventes que exploran diferentes atmósferas. Productores: METAL FINGERS, DJ SUBROC. Arte / Diseño: MATT DOSZKOCS. Fecha de lanzamiento: 24 de enero de 2006.",
         "fecha": "2006",
-        "artista": "metalfingers",  // METALFINGERS
+        "artista": "metalfingers",
         "foto": "8.jpg",
         "fotos": ["8a.jpg", "8b.jpg", "8c.jpg"],
         "github": "https://github.com/conyln"
@@ -75,7 +75,7 @@
         "nombre": "OCCULT HYMN",
         "descripcion": "EP del supergrupo DANGERDOOM (DANGER MOUSE + MF DOOM), que incluye remixes y nuevas versiones de su colaboración inicial, manteniendo el estilo humorístico y animado. Productores: DANGER MOUSE, MADLIB. Arte / Diseño: No especificado. Fecha de lanzamiento: 30 de mayo de 2006.",
         "fecha": "2006",
-        "artista": "dangerdoom",  // DANGERDOOM
+        "artista": "dangerdoom",
         "foto": "9.jpg",
         "fotos": ["9a.jpg", "9b.jpg", "9c.jpg"],
         "github": "https://github.com/conyln"
@@ -84,7 +84,7 @@
         "nombre": "MADVILLAINY 2",
         "descripcion": "Segundo álbum del supergrupo MADVILLAIN (MADLIB + MF DOOM), que revisita el original con una visión alternativa de remixes en su estilo característico. Productores: MADLIB, MF DOOM. Arte / Diseño: ERIC COLEMAN (Fotografía), JEFF JANK (Diseño), JAMES REITANO (Ilustración). Fecha de lanzamiento: 15 de septiembre de 2008.",
         "fecha": "2008",
-        "artista": "madvillain",  // MADVILLAIN
+        "artista": "madvillain",
         "foto": "10.jpg",
         "fotos": ["10a.jpg", "10b.jpg", "10c.jpg"],
         "github": "https://github.com/conyln"
@@ -93,7 +93,7 @@
         "nombre": "BORN LIKE THIS",
         "descripcion": "Álbum bajo su nuevo alias, DOOM. Proyecto más sombrío y complejo, con temas profundos y producción que explora varias facetas del villano lírico. Productores: MF DOOM, J DILLA, MR. CHOP, JAKE ONE, MADLIB. Arte / Diseño: VASIM BHATTI de EHQUESTIONMARK. Fecha de lanzamiento: 24 de marzo de 2009.",
         "fecha": "2009",
-        "artista": "doom",  // DOOM
+        "artista": "doom",
         "foto": "11.jpg",
         "fotos": ["11a.jpg", "11b.jpg", "11c.jpg"],
         "github": "https://github.com/conyln"
@@ -102,7 +102,7 @@
         "nombre": "KEY TO THE KUFFS",
         "descripcion": "Álbum del supergrupo JJDOOM (JNEIRO JAREL + DOOM), mezcla ritmos electrónicos y samples con rimas abstractas. Productor: JNEIRO JAREL. Arte / Diseño: STEVE POWERS. Fecha de lanzamiento: 20 de agosto de 2012.",
         "fecha": "2012",
-        "artista": "jjdoom",  // JJDOOM
+        "artista": "jjdoom",
         "foto": "12.jpg",
         "fotos": ["12a.jpg", "12b.jpg", "12c.jpg"],
         "github": "https://github.com/conyln"
@@ -111,27 +111,37 @@
         "nombre": "BOOKHEAD",
         "descripcion": "EP del supergrupo JJDOOM (JNEIRO JAREL + DOOM), un trabajo con sonidos futuristas y un estilo experimental. Productor: JNEIRO JAREL. Arte / Diseño: ESPO, STEVE POWERS, JAKE RICH. Fecha de lanzamiento: 15 de enero de 2013.",
         "fecha": "2013",
-        "artista": "jjdoom",  // JJDOOM
+        "artista": "jjdoom",
         "foto": "13.jpg",
         "fotos": ["13a.jpg", "13b.jpg", "13c.jpg"],
         "github": "https://github.com/conyln"
     },
     {
         "nombre": "NEHRUVIANDOOM",
-        "descripcion": "Colaboración entre MF DOOM y el rapero NEHRU, que combina lirismo de alto nivel con producción refinada. Productores: MF DOOM, KAYTRANADA. Arte / Diseño: No especificado. Fecha de lanzamiento: 23 de octubre de 2015.",
+        "descripcion": "Álbum homónimo del supergrupo NEHRUVIANDOOM (BISHOP NEHRU + DOOM), donde DOOM actúa como mentor sobre beats melódicos y con un estilo lírico dinámico. Productores: MF DOOM, KAYTRANADA. Arte / Diseño: GHOSTSHRIMP. Fecha de lanzamiento: 23 de octubre de 2015.",
         "fecha": "2015",
-        "artista": "nehruviandoom",  // NEHRUVIANDOOM
+        "artista": "nehruviandoom",
         "foto": "14.jpg",
         "fotos": ["14a.jpg", "14b.jpg", "14c.jpg"],
         "github": "https://github.com/conyln"
     },
     {
         "nombre": "CZARFACE MEETS METALFACE",
-        "descripcion": "Colaboración entre el grupo CZARFACE y MF DOOM, con un enfoque en el rap crudo y los cómics, perfecto para los fanáticos del hip-hop clásico. Productores: CZARFACE, MF DOOM. Arte / Diseño: No especificado. Fecha de lanzamiento: 30 de abril de 2018.",
+        "descripcion": "* Primer álbum de la colaboración entre CZARFACE y DOOM, con una narrativa inspirada en cómics y rimas ingeniosas en un universo de superhéroes. Este fue el último lanzamiento de DOOM antes de su muerte en 2020. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de abril de 2018.",
+        "fecha": "2018",
+        "artista": "czarface_mf_doom",
+        "foto": "15.jpg",
+        "fotos": ["15a.jpg", "15b.jpg", "15c.jpg"],
+        "github": "https://github.com/conyln"
+    }
+        {
+        "nombre": "CZARFACE MEETS METALFACE",
+        "descripcion": "* Segundo álbum colaboración entre CZARFACE y DOOM, lanzado póstumamente después de la muerte de DOOM en 2020, lleno de temas de ciencia ficción y narrativa de aventuras. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de abril de 2018.",
         "fecha": "2018",
         "artista": "czarface_mf_doom",  // CZARFACE & MF DOOM
         "foto": "15.jpg",
         "fotos": ["15a.jpg", "15b.jpg", "15c.jpg"],
         "github": "https://github.com/conyln"
     }
+]
 ]
