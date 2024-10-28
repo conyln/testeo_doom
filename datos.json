@@ -143,5 +143,14 @@
         "foto": "16.jpg",
         "fotos": ["16a.jpg", "16b.jpg", "16c.jpg"],
         "github": "https://github.com/conyln"
-    }
+    },
+    {
+        "nombre": "MM...FOOD (20TH ANNIVERSARY EDITION)",
+        "descripcion": "Álbum póstumo de MF DOOM, edición del anivesario 20 de MM... FOOD, que incluirá los tracks originales y nuevos. Productor: MF DOOM. Arte / Diseño: SAM RODRIGUEZ. Fecha de lanzamiento: 15 de noviembre de 2024.",
+        "fecha": "2024",
+        "artista": "mf_doom",
+        "foto": "17.jpg",
+        "fotos": ["17a.jpg", "17b.jpg", "17c.jpg"],
+        "github": "https://github.com/conyln"
+    },
 ]
