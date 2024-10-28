@@ -57,7 +57,7 @@
     </header>
 
     <div class="container text-center">
-        <main class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-6 g-2 g-lg-3"></main>
+        <main class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-6 g-1 g-lg-1"></main>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
@@ -72,22 +72,24 @@
 
         async function astros() {
             const consulta = await fetch("https://raw.githubusercontent.com/conyln/testeo_doom/refs/heads/main/datos.json");
+            //const consulta = await fetch("./datos.json");
+            console.log(consulta)
             const data = await consulta.json();
             console.log(data);
 
             data.forEach((d, i) =>
                 (principal.innerHTML += `
-                <div class="${d.artista} col mb-3">
-                <div class="card text-bg-light ">
-                <img src="https://conyln.github.io/testeo_doom/img/${d.foto}" class="card-img-top" alt="${d.nombre}">
-                <div class="card-body ">
-                    <p><a href="single.html?data=${i}" class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover stretched-link">${d.nombre}</a></p>
-                    <div class="d-flex justify-content-around align-items-center">
-                        <small class="text-body-secondary">${(d.artista).replace("_"," ").toUpperCase()}</small>
-                        <small class="text-body-secondary">${d.fecha}</small>
+                <div class="${d.artista} col mb-3 card-wrapper">
+                    <div class="card text-bg-light grayscale-card">
+                        <img src="https://conyln.github.io/testeo_doom/img/${d.foto}" class="card-img-top grayscale" alt="${d.nombre}">
+                        <div class="card-body">
+                            <p><a href="single.html?data=${i}" class="link-dark link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover stretched-link">${d.nombre}</a></p>
+                            <div class="d-flex justify-content-around align-items-center">
+                                <small class="text-body-secondary">${(d.artista).replaceAll("_"," ").toUpperCase()}</small>
+                                <small class="text-body-secondary">${d.fecha}</small>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                </div>
                 </div>`)
             );
 

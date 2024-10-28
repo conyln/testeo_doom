@@ -6,15 +6,60 @@
     --bs-body-font-family: var(--bs-font-sans-serif);
 }
 
-.card-img-top{
-    filter: grayscale(100%);
 
+
+.card-img-top.grayscale {  
+    filter: grayscale(100%);  
+    transition: filter 0.3s ease;  
+}  
+  
+.grayscale-card {  
+    filter: grayscale(100%);  
+    transition: filter 0.3s ease;  
+}  
+  
+.card-body {  
+    background-color: rgba(var(--bs-success-rgb), 0.5); /* Initial background color with transparency */  
+    transition: background-color 0.3s ease;  
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    flex: 1 1 auto; /* Ensures the card body takes up available space */  
+    display: flex;  
+    flex-direction: column;  
+    justify-content: space-between; /* Distributes space evenly */  
+}  
+  
+.card-wrapper {  
+    display: flex;  
+    flex-direction: column;  
+}  
+
+
+.card {  
+    flex: 1 1 auto; /* Allows the card to grow and shrink */  
+    display: flex;  
+    flex-direction: column;  
+    max-width: 100%; /* Ensure cards don't overflow */  
+    min-width: 0; /* Prevent cards from being too wide */  
+}  
+
+
+
+.card-wrapper:hover .card-img-top.grayscale,  
+.card-wrapper:hover .grayscale-card {  
+    filter: grayscale(0%);  
+}  
+  
+.card-wrapper:hover .card-body {  
+    background-color: rgba(255, 0, 0, 0.7); /* Change to red with transparency on hover */  
+}  
+
+
+.carousel { 
+    margin-bottom: 10px;
 }
 
-.card-img-top:hover{
-    filter: contrast(100%);
-}
 
-.card-body:hover{
-    filter:grayscale(0%);
+.carousel-inner{ 
+    border-radius: 5px;
 }
