@@ -6,7 +6,7 @@
         "artista": "mf_doom",
         "foto": "1.jpg",
         "fotos": ["1a.jpg", "1b.jpg", "1c.jpg"],
-        "album_id": "5bjUbZPVTEQcb6W3LquX1E",
+        "album_id": "5bjUbZPVTEQcb6W3LquX1E"
     },
     {
         "nombre": "TAKE ME TO YOUR LEADER",
@@ -15,7 +15,7 @@
         "artista": "king_geedorah",
         "foto": "2.jpg",
         "fotos": ["2a.jpg", "2b.jpg", "2c.jpg"],
-        "album_id": "3AEeWRPtSMeqoXL8xNcSbe"
+        "album_id": "3AEeWRPtSMeqoXL8xNcSbe",
         "github": "https://github.com/conyln"
     },
     {
