@@ -127,18 +127,18 @@
     },
     {
         "nombre": "CZARFACE MEETS METALFACE",
-        "descripcion": "* Primer álbum de la colaboración entre CZARFACE y DOOM, con una narrativa inspirada en cómics y rimas ingeniosas en un universo de superhéroes. Este fue el último lanzamiento de DOOM antes de su muerte en 2020. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de abril de 2018.",
+        "descripcion": "Primer álbum de la colaboración entre CZARFACE y DOOM, con una narrativa inspirada en cómics y rimas ingeniosas en un universo de superhéroes. Este fue el último lanzamiento de DOOM antes de su muerte en 2020. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de abril de 2018.",
         "fecha": "2018",
         "artista": "czarface_mf_doom",
         "foto": "15.jpg",
         "fotos": ["15a.jpg", "15b.jpg", "15c.jpg"],
         "github": "https://github.com/conyln"
-    }
+    },
         {
         "nombre": "CZARFACE MEETS METALFACE",
-        "descripcion": "* Segundo álbum colaboración entre CZARFACE y DOOM, lanzado póstumamente después de la muerte de DOOM en 2020, lleno de temas de ciencia ficción y narrativa de aventuras. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de abril de 2018.",
+        "descripcion": "Segundo álbum de la colaboración entre CZARFACE y DOOM, lanzado póstumamente después de la muerte de DOOM en 2020, lleno de temas de ciencia ficción y narrativa de aventuras. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de abril de 2018.",
         "fecha": "2018",
-        "artista": "czarface_mf_doom",  // CZARFACE & MF DOOM
+        "artista": "czarface_mf_doom",
         "foto": "15.jpg",
         "fotos": ["15a.jpg", "15b.jpg", "15c.jpg"],
         "github": "https://github.com/conyln"
