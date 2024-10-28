@@ -6,8 +6,7 @@
         "artista": "mf_doom",
         "foto": "1.jpg",
         "fotos": ["1a.jpg", "1b.jpg", "1c.jpg"],
-        "album_id": "5bjUbZPVTEQcb6W3LquX1E",
-        "github": "https://github.com/conyln"
+        "album_id": "5bjUbZPVTEQcb6W3LquX1E"
     },
     {
         "nombre": "TAKE ME TO YOUR LEADER",
@@ -16,8 +15,7 @@
         "artista": "king_geedorah",
         "foto": "2.jpg",
         "fotos": ["2a.jpg", "2b.jpg", "2c.jpg"],
-        "album_id": "3AEeWRPtSMeqoXL8xNcSbe",
-        "github": "https://github.com/conyln"
+        "album_id": "1mrhahrlJu5JfzgeV6Cy8t"
     },
     {
         "nombre": "VAUDEVILLE VILLAIN",
@@ -26,7 +24,7 @@
         "artista": "viktor_vaughn",
         "foto": "3.jpg",
         "fotos": ["3a.jpg", "3b.jpg", "3c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "7HPjcPD2cr8E5oHvVAmBp7"
     },
     {
         "nombre": "MADVILLAINY",
@@ -35,7 +33,7 @@
         "artista": "madvillain",
         "foto": "4.jpg",
         "fotos": ["4a.jpg", "4b.jpg", "4c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "19bQiwEKhXUBJWY6oV3KZk"
     },
     {
         "nombre": "VV:2 VENOMOUS VILLAIN",
@@ -43,8 +41,7 @@
         "fecha": "2004",
         "artista": "viktor_vaughn",
         "foto": "5.jpg",
-        "fotos": ["5a.jpg", "5b.jpg", "5c.jpg"],
-        "github": "https://github.com/conyln"
+        "fotos": ["5a.jpg", "5b.jpg", "5c.jpg"]
     },
     {
         "nombre": "MM...FOOD",
@@ -53,7 +50,7 @@
         "artista": "mf_doom",
         "foto": "6.jpg",
         "fotos": ["6a.jpg", "6b.jpg", "6c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "1UcS2nqUhxrZjrBZ3tHk2N"
     },
     {
         "nombre": "THE MOUSE AND THE MASK",
@@ -62,7 +59,7 @@
         "artista": "dangerdoom",
         "foto": "7.jpg",
         "fotos": ["7a.jpg", "7b.jpg", "7c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "6TgkNOiJxeSkVVbXV720B1"
     },
     {
         "nombre": "SPECIAL HERBS: THE BOX SET VOL. 0–9",
@@ -71,7 +68,7 @@
         "artista": "metalfingers",
         "foto": "8.jpg",
         "fotos": ["8a.jpg", "8b.jpg", "8c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "3QiZaIVgSMuznmUNLPMG8t"
     },
     {
         "nombre": "OCCULT HYMN",
@@ -79,8 +76,7 @@
         "fecha": "2006",
         "artista": "dangerdoom",
         "foto": "9.jpg",
-        "fotos": ["9a.jpg", "9b.jpg", "9c.jpg"],
-        "github": "https://github.com/conyln"
+        "fotos": ["9a.jpg", "9b.jpg", "9c.jpg"]
     },
     {
         "nombre": "MADVILLAINY 2",
@@ -89,7 +85,7 @@
         "artista": "madvillain",
         "foto": "10.jpg",
         "fotos": ["10a.jpg", "10b.jpg", "10c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "2tFoLuLmgTgwFS0P9RVvew"
     },
     {
         "nombre": "BORN LIKE THIS",
@@ -98,7 +94,7 @@
         "artista": "doom",
         "foto": "11.jpg",
         "fotos": ["11a.jpg", "11b.jpg", "11c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "2XfBjZ0ZwKMfwYJDX0JR1O"
     },
     {
         "nombre": "KEY TO THE KUFFS",
@@ -107,7 +103,7 @@
         "artista": "jjdoom",
         "foto": "12.jpg",
         "fotos": ["12a.jpg", "12b.jpg", "12c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "3AEeWRPtSMeqoXL8xNcSbe"
     },
     {
         "nombre": "BOOKHEAD",
@@ -116,7 +112,7 @@
         "artista": "jjdoom",
         "foto": "13.jpg",
         "fotos": ["13a.jpg", "13b.jpg", "13c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "21lAbpuWxW2fnSvqAmDtNn"
     },
     {
         "nombre": "NEHRUVIANDOOM",
@@ -125,33 +121,42 @@
         "artista": "nehruviandoom",
         "foto": "14.jpg",
         "fotos": ["14a.jpg", "14b.jpg", "14c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "https://github.com/conyln"
     },
     {
         "nombre": "CZARFACE MEETS METALFACE",
-        "descripcion": "Primer álbum de la colaboración entre CZARFACE y DOOM, con una narrativa inspirada en cómics y rimas ingeniosas en un universo de superhéroes. Este fue el último lanzamiento de DOOM antes de su muerte en 2020. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de abril de 2018.",
+        "descripcion": "Primer álbum de la colaboración entre CZARFACE y DOOM, con una narrativa inspirada en cómics y rimas ingeniosas en un universo de superhéroes. Este fue el último lanzamiento de DOOM antes de su muerte en 2020. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de marzo de 2018.",
         "fecha": "2018",
         "artista": "czarface_mf_doom",
         "foto": "15.jpg",
         "fotos": ["15a.jpg", "15b.jpg", "15c.jpg"],
-        "github": "https://github.com/conyln"
+        "album_id": "2PPvDD3t985MvMphfSwzgr"
+    },
+    {
+        "nombre": "CZARFACE MEETS METALFACE INSTRUMENTALS",
+        "descripcion": "Álbum de de tracks instrumentales de la colaboración entre CZARFACE y DOOM. Productores: CZARFACE, MF DOOM. Arte / Diseño: LAMOUR SUPREME. Fecha de lanzamiento: 30 de marzo de 2018.",
+        "fecha": "2018",
+        "artista": "czarface_mf_doom",
+        "foto": "16.jpg",
+        "fotos": ["16a.jpg", "16b.jpg", "16c.jpg"],
+        "album_id": "0baxtwETSL9uVjKBb6e4qw"
     },
     {
         "nombre": "SUPER WHAT?",
         "descripcion": "Continuación de la colaboración entre CZARFACE y MF DOOM, manteniendo su estilo distintivo con una producción dinámica y letras ingeniosas. Productores: CZARFACE. Arte / Diseño: No especificado. Fecha de lanzamiento: 7 de mayo de 2021.",
         "fecha": "2021",
         "artista": "czarface_mf_doom",
-        "foto": "16.jpg",
-        "fotos": ["16a.jpg", "16b.jpg", "16c.jpg"],
-        "github": "https://github.com/conyln"
+        "foto": "17.jpg",
+        "fotos": ["17a.jpg", "17b.jpg", "1c.jpg"],
+        "album_id": "4odeNH2Qe9DAxT3sC1qq9p"
     },
     {
         "nombre": "MM...FOOD (20TH ANNIVERSARY EDITION)",
-        "descripcion": "Álbum póstumo de MF DOOM, edición del anivesario 20 de MM... FOOD, que incluirá los tracks originales y nuevos. Productor: MF DOOM. Arte / Diseño: SAM RODRIGUEZ. Fecha de lanzamiento: 15 de noviembre de 2024.",
+        "descripcion": "Edición 20 aniversario de MM... FOOD, que incluirá los tracks originales y nuevos, además de nuevo diseño y experiencias digitales. Productor: MF DOOM. Arte / Diseño: SAM RODRIGUEZ. Fecha de lanzamiento: 15 de noviembre de 2024.",
         "fecha": "2024",
         "artista": "mf_doom",
-        "foto": "17.jpg",
-        "fotos": ["17a.jpg", "17b.jpg", "17c.jpg"],
-        "github": "https://github.com/conyln"
+        "foto": "18.jpg",
+        "fotos": ["18a.jpg", "18.jpg", "18c.jpg"],
+        "album_id": "/3ciMtinZpWLDIsCWljpgvA"
     }
 ]
